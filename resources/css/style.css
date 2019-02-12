@@ -27,3 +27,23 @@ p{
     background-size: cover;
     overflow: hidden;
 }
+
+h2, h4{
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+h3{
+    
+}
+
+.border{
+    padding-top: 30px;
+}
+
+footer{
+    font-size: 21px;
+    text-align: right;
+    color: grey;
+}
