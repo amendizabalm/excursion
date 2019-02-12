@@ -8,12 +8,22 @@ h1{
     font-weight: normal;
     font-size: 50px;
     color: white;
-    text-align: center;
 }
 
 p{
-    font-weight: bold;
     font-size: 16px;
     color: aquamarine;
-    text-align: center;
+}
+
+.videoInsert {
+    position: center; 
+    right: 0; 
+    bottom: 0;
+    min-width: 10%; 
+    min-height: 30%;
+    width: auto; 
+    height: auto; 
+    z-index: -100;
+    background-size: cover;
+    overflow: hidden;
 }
